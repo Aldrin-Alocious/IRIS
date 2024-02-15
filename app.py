@@ -27,4 +27,4 @@ elif op[0]==1:
 elif op[0]==2:
   out="Iris virginica"
 if st.button('Predict'):
-  st.title(op[0])
+  st.title(out)
